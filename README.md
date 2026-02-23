@@ -9,10 +9,10 @@ The project was developed as an embedded systems experiment combining networking
 
 ---
 ### Controller
-![Controller](images/Controller_Front.png)
-![Controller](images/Controller_Back.png)
+![Controller](Images/Controller_Front.png)
+![Controller](Images/Controller_Back.png)
 ### Circuit Diagram
-![Circuit](images/Circuit_Diagram.jpeg)
+![Circuit](Images/Circuit_Diagram.jpeg)
 
 ## System Architecture
 
