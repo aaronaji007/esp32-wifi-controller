@@ -8,6 +8,11 @@ The ESP32 connects to the same Wi-Fi hotspot as the target laptop/PC and transmi
 The project was developed as an embedded systems experiment combining networking, hardware integration, and software control.
 
 ---
+### Controller
+![Controller](images/Controller_Front.png)
+![Controller](images/Controller_Back.png)
+### Circuit Diagram
+![Circuit](images/Circuit_Diagram.jpeg)
 
 ## System Architecture
 
